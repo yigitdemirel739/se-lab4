@@ -1,0 +1,4 @@
+GT4500,10,0,10,0  # Initialize GT4500 with 10 primary and 10 secondary torpedoes
+TORPEDO,SINGLE    # First single fire (should fire from primary store)
+TORPEDO,SINGLE    # Second single fire (should fire from secondary store - alternating)
+EXIT              # Exit the application
